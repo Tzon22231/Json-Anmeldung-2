@@ -1,0 +1,17 @@
+{
+  "Montag":"Abendgottesdienst",
+  "Dienstag":"",
+  "Mittwoch":"",
+  "Donnerstag":"",
+  "Freitag":"",
+  "Samstag":"",
+  "Sonntag":"Sonntagsgottesdienst",
+
+"MontagsOrt":"Allendorf",
+"DienstagsOrt":"",
+"Mittwochsort":"",
+"Donnerstagsort":"",
+"FreitagsOrt":"",
+"SamstagsOrt":"",
+"SonntagsOrt":"Ulm"
+}
